@@ -1,17 +1,17 @@
-# smart-contract
-The next generation of SMART Contracts https://trc20.site
+＃智能合约
+下一代SMART合约https://trc20.site
 
-The crowdfunding space routinely raises hundreds of millions of dollars each year, but is rife with fraud, abuse, failed projects, and “completed” projects that don’t live up to expectations or promises.
+隐藏空间通常每年筹集数亿美元，但缺乏欺诈，滥用，失败的项目以及不符合他们期望和承诺的已完成项目的可信度。
 
-Innovative process or upcoming tokenomicscan be implemented fast and will be available toinvestors and companiesEasy to adjust assets, when crowdfundingprojects fail or concerns arise regardingfeasibility of the projectSmartcontracts can enforce this actionautomatically and build out a system designedspecifically to be fair to all parties
+创新趋势或未来迹象可以快速实施，并可供现有投资者和公司使用。公司可以在收集项目时自动设置资产，也可以关注项目的可行性，并且系统是为了公平而创建的。
 
 
 TRC20 TRON BLOCKCHAIN
-Our TRC20 Mission
-T2S aims to be a crowdfunding platform for doinggood, by leveraging the power of crypto and token-based funding to make the world a better place, oneproject at a time.
+我们的使命是TRC20
+TST计划在众筹平台上做好事，使用加密和书签功能创建一个更好的位置，一次一个项目。
 
-Over the course of time, we hope toemerge as champions for science and technology,where projects,
+随着时间的推移，我们希望成为科技领域的佼佼者，
 
-both big and small would gatherfunding purely on the basis of their merit.
+大小都只是收集它们的优点。
 
-The goal of T2S is to create an open, reliable and convenient platform for successful international commercialization of Intellectual Property. The T2S platform runs on TRON BLOCKCHAIN and their holders will receive part of the profit from the realization projects in the T2S ecosystem.
+TST的目标是为国际企业对企业知识产权创建一个开放，可靠和适当的平台。 TST平台在TRON BLOCKCHAIN上运行，其所有者将从TST生态系统项目中获得部分利润。
